@@ -1,0 +1,7 @@
+Name: awin
+Customer ID: 030430101756
+No. Tel: 01175320480
+Address: sungai buloh
+Email: awin@gmail.com
+Seat: vip
+Quantity: 2
